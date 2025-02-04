@@ -38,8 +38,6 @@ In conclusion, predictive analysis using machine learning is a powerful tool for
 
 #OUTPUT:
 
-![Image](https://github.com/user-attachments/assets/c7ffc24d-7df9-46db-a86f-1cae05cdd866)
-
 ![Image](https://github.com/user-attachments/assets/f01c17b4-efa0-4be4-9fa8-887b4cb1267c)
 
 ![Image](https://github.com/user-attachments/assets/f05b28d8-8bcb-4625-a3b7-66cc4256ec0f)
